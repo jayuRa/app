@@ -1,0 +1,6 @@
+/.deta
+/.dockerignore
+/Dockerfile
+/docker-compose.yml
+_pychache_
+myvenv

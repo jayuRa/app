@@ -1,0 +1,15 @@
+fastapi
+jinja2
+uvicorn
+sqlalchemy
+pydantic
+anyio==3.5.0
+asgiref==3.5.0
+click==8.0.4
+h11==0.13.0
+idna==3.3
+sniffio==1.2.0
+starlette==0.17.1
+typing_extensions==4.1.1
+
+
