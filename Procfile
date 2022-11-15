@@ -1,1 +1,1 @@
-web: node main.py
+web: node build/main.py
